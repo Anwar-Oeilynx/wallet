@@ -1,0 +1,2 @@
+commande a executer sous bash
+npm create vite@latest ./ pour le creer a l racine du dossier ici c w3wallet
